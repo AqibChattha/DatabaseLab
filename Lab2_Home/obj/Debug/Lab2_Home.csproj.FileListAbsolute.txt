@@ -13,3 +13,18 @@ C:\Users\Aqib_Chattha\source\repos\Lab2_Home\obj\Debug\Lab2_Home.ucCourses.resou
 C:\Users\Aqib_Chattha\source\repos\Lab2_Home\obj\Debug\Lab2_Home.ucRegisterStudent.resources
 C:\Users\Aqib_Chattha\source\repos\Lab2_Home\obj\Debug\Lab2_Home.ucAttendence.resources
 C:\Users\Aqib_Chattha\source\repos\Lab2_Home\obj\Debug\Lab2_Home.ucCRUD.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\bin\Debug\Lab2_Home.exe.config
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\bin\Debug\Lab2_Home.exe
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\bin\Debug\Lab2_Home.pdb
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.csproj.AssemblyReference.cache
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.Form1.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.Properties.Resources.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.ucAttendence.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.ucCourses.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.ucCRUD.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.ucRegisterStudent.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.ucStudent.resources
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.csproj.GenerateResource.cache
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.csproj.CoreCompileInputs.cache
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.exe
+C:\Users\Aqib Chattha\Documents\GitHub\DatabaseLab\Lab2_Home\obj\Debug\Lab2_Home.pdb
